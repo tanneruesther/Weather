@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Digital+7&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="./script.js"defer></script>
+</head>
+<body>
+    <h1 id="heading">Weather</h1>
+    <div>
+        <div id="header">
+             <div id="changeTheme">
+                <button id="theme-toggle" onclick="toggleTheme()">Change theme
+                    <i class="fas fa-sun" id="sun-icon"></i>
+                    <i class="fas fa-moon" id="moon-icon" style="display: none;"></i>
+                </button>
+             </div>
+        
+             <div id="getWeather">
+                 <input type="text" placeholder="Enter the city" id="city">
+                 <button id="getWeatherbtn" onclick="weather()" >Get Weather</button>
+             </div>
+         </div>
+        
+        <div id="weather">
+    
+            <!-- Weather Data Boxes -->
+                <div id="weather-box">
+                    <span id="time">Loading time...</span>
+                   <span id="date">Loading date...</span>
+                   <span id="day">Loading day...</span>
+                </div>
+
+            
+            <div class="weather-box" >
+                <h2 >Temperature<br><span id="temperature"></span></h2>
+            </div>
+            <div class="weather-box">
+                <h2 >Weather<br><span id="weather-description" ></span></h2>
+            </div>
+            <div class="weather-box">
+                <h2 >Humidity<br><span id="humidity" ></span></h2>
+            </div>
+            <div class="weather-box">
+                <h2 >Wind speed<br><span id="wind-speed"></span></h2>
+            </div>
+            <div class="weather-box">
+                <h2 >Sunrise<br><span id="sunrise"></span></h2>
+            </div>
+            <div class="weather-box">
+                <h2 >Sunset<br><span id="sunset" ></span></h2>
+            </div>    
+        </div>
+
+</div>
+</body>
+</html>
+     
