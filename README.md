@@ -13,7 +13,6 @@ the app is designed to provide a user-friendly and responsive interface.
 - Displays the current temperature, weather description, humidity, and wind speed.
 - Shows the sunrise and sunset times for the entered city.
 - Toggle between day and night themes.
-- 
 ## Technologies Used
 HTML
 CSS
@@ -22,11 +21,11 @@ JavaScript
 ## Installation
 To set up the Weather Application locally, follow these steps:
 
--Clone this repository:git :https://github.com/tanneruesther/Weather.git
--Open the index.html file in your browser.
--Enter a city name in the input field and click the "Get Weather" button to see the weather details for that city.
--The app will display the temperature, weather description, humidity, wind speed, and the times for sunrise and sunset.
--You can also toggle between day and night themes using the theme toggle button.
+1.Clone this repository:git :https://github.com/tanneruesther/Weather.git
+2.Open the index.html file in your browser.
+3.Enter a city name in the input field and click the "Get Weather" button to see the weather details for that city.
+4.The app will display the temperature, weather description, humidity, wind speed, and the times for sunrise and sunset.
+5.You can also toggle between day and night themes using the theme toggle button.
 
 ## Set Up Instructions
 
