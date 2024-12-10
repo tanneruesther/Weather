@@ -22,11 +22,11 @@ JavaScript
 ## Installation
 To set up the Weather Application locally, follow these steps:
 
-Clone this repository:git :https://github.com/tanneruesther/Weather.git
-Open the index.html file in your browser.
-Enter a city name in the input field and click the "Get Weather" button to see the weather details for that city.
-The app will display the temperature, weather description, humidity, wind speed, and the times for sunrise and sunset.
-You can also toggle between day and night themes using the theme toggle button.
+-Clone this repository:git :https://github.com/tanneruesther/Weather.git
+-Open the index.html file in your browser.
+-Enter a city name in the input field and click the "Get Weather" button to see the weather details for that city.
+-The app will display the temperature, weather description, humidity, wind speed, and the times for sunrise and sunset.
+-You can also toggle between day and night themes using the theme toggle button.
 
 ## Set Up Instructions
 
