@@ -34,10 +34,10 @@ To set up the Weather Application locally, follow these steps:
 
 ## Screenshots
 ### Light Theme
-![Weather App - Light Theme](weatherapp.jpg)
+![Weather App - Light Theme](assets\weatherapp.jpg)
 
 ### Dark Theme
-![Weather App - Dark Theme](weatherapp-dark-theme.jpg)
+![Weather App - Dark Theme](assets\weatherapp-dark-theme.jpg)
 
 ## Why I Created This Project
 I created this project as part of my learning journey to improve my skills in web development, specifically working with APIs.
